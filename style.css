@@ -104,7 +104,25 @@ body {
   background-color: #161616;
 }
 
+#guram {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 99%;
+  width: 100%;
+  opacity: 0;
+  -webkit-transition: .5s ease;
+  transition: .5s ease;
+  background-color: #161616;
+}
+
 .gallery__item-first:hover .overlay {
+  opacity: 0.81;
+}
+
+.gallery__item-first:hover #guram {
   opacity: 0.81;
 }
 
