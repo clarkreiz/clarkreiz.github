@@ -110,8 +110,8 @@ body {
   height: 95%;
   width: 100%;
   opacity: 0;
-  -webkit-transition: .5s ease;
-  transition: .5s ease;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
   background-color: #161616;
 }
 
@@ -124,8 +124,8 @@ body {
   height: 99%;
   width: 100%;
   opacity: 0;
-  -webkit-transition: .5s ease;
-  transition: .5s ease;
+  -webkit-transition: .3s ease;
+  transition: .3s ease;
   background-color: #161616;
 }
 
