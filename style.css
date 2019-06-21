@@ -185,6 +185,9 @@ body {
             align-items: center;
     margin-bottom: 70px;
   }
+  img {
+      margin-bottom: 20px;
+}
   .gallery {
     max-width: 1400px;
   }
